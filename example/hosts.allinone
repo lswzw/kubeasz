@@ -47,7 +47,7 @@ CLUSTER_CIDR="172.20.0.0/16"
 NODE_PORT_RANGE="20000-40000"
 
 # Cluster DNS Domain
-CLUSTER_DNS_DOMAIN="cluster.local."
+CLUSTER_DNS_DOMAIN="cluster.local"
 
 # -------- Additional Variables (don't change the default value right now)---
 # Binaries Directory
